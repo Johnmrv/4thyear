@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Janro Maravilla",
+    "course": "BSIT",
+    "year": 1,
+    "email": "janro.maravilla@sample.com"
+  },
+  {
+    "id": "2",
+    "name": "Kim Arcalas",
+    "course": "BSCS",
+    "year": 2,
+    "email": "kim.arcalas@sample.com"
+  },
+  {
+    "id": "3",
+    "name": "Tristan Garin",
+    "course": "BSIT",
+    "year": 3,
+    "email": "tristan.garin@sample.com"
+  },
+  {
+    "id": "4",
+    "name": "Deo Cabael",
+    "course": "BSIS",
+    "year": 4,
+    "email": "deo.cabael@sample.com"
+  },
+  {
+    "id": "5",
+    "name": "Bradam Datu",
+    "course": "BSIT",
+    "year": 5,
+    "email": "bradam.datu@sample.com"
+  },
+  {
+    "id": "3e4397e7-89f1-4a1a-956a-493f59230c1f",
+    "name": "Caleb Whitmor",
+    "course": "BSIT",
+    "year": 2,
+    "email": "caleb.whitmor@sample.com"
+  },
+  {
+    "id": "dc71a855-3be2-4ba0-9571-2d1e54862841",
+    "name": "Arian Conti",
+    "course": "BSIT",
+    "year": 2,
+    "email": "arian.conti@sample.com"
+  }
+]

@@ -1,0 +1,21 @@
+[9/9/2026, 1:13:05 PM] - User requested route: /
+[9/9/2026, 1:13:05 PM] - User requested route: /favicon.ico
+[9/9/2026, 1:13:19 PM] - User requested route: /students
+[9/9/2026, 1:13:32 PM] - User requested route: /invalid
+[9/9/2026, 1:14:58 PM] - User requested route: /students
+[9/9/2026, 1:28:44 PM]
+User requested route: /
+[9/9/2026, 1:28:52 PM]
+User requested route: /students
+[9/9/2026, 1:29:31 PM]
+User requested route: /invald
+[9/9/2026, 1:32:46 PM]
+User requested route: /students
+[9/9/2026, 1:33:22 PM]
+User requested route: /students
+[9/14/2026, 8:20:45 PM]
+User requested route: /
+[9/14/2026, 8:20:52 PM]
+User requested route: /students
+[9/14/2026, 8:21:00 PM]
+User requested route: /jji

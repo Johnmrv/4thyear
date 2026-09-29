@@ -1,0 +1,16 @@
+[
+{
+    "id": "1",
+    "name": "Janro Maravilla",
+    "course": "BSIT",
+    "year": 4,
+    "email": "janro.maravilla@gmail.com"
+},
+{
+    "id": "2",
+    "name": "Arian Conti",
+    "course": "BSIT",
+    "year": 4,
+    "email": "arian.conti@gmail.com"
+}
+]

@@ -1,0 +1,2 @@
+The mul is ${mult} 
+the div is ${div}
