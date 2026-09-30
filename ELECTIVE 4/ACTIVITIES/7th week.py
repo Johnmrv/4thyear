@@ -41,3 +41,21 @@ for value in info.values():
         print(value, end="-")
 print()
 
+print (info.items())
+
+for item in info.items():
+    print(f"Key: {item[0]} -> Value: {item[1]}")
+
+print()
+##Unpacking a tuple
+for key, value in info.items():
+    print(f"")
+
+myTup = (1, 2, 3)
+a = myTup
+print(a[0])
+print(a[1])
+print(a[2])
+
+print()
+
