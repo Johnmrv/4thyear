@@ -36,56 +36,56 @@ print("Prob 1")
 for i in range(1, 26, 2):
     print(i, end=" ")
 
-##print()
-##print("========================")
-##print("Using if statement")
-##
-##
-###rangeOfValue = input("Enter range value: ")
-##if rangeOfValue.isnumeric():
-##    rangeOfValue = int(rangeOfValue)
-##    for i in range(rangeOfValue + 1):
-##        if i % 2 == 0 and i !=0 :
-##            print(i, end=" ")
-##
-##print()
-##print("========================")
-##print("Learning Task")
-##print("========================")
-##print("Prob 2")
-##print()
-##
-##for i in range(1, 11):
-##    print(i * 5)
-##
-##print()
-##print("========================")
-##print("Learning Task")
-##print("========================")
-##print("Prob 3")
-##print()
-##
-##inputs = int(input("Enter total number of inputs: "))
-##
-##count = 0
-##summ = 0
-##
-##for _ in range(inputs):
-##    val = int(input("Enter an integer: "))
-##
-##    if val <= 0:
-##        break
-##
-##    summ += val
-##    count += 1
-##
-##if count > 0:
-##    avr = summ / count
-##    print(f"\n Sum: {summ}")
-##    print(f"\n Count: {count}")
-##    print(f"\n Average: {avr}")
-##else:
-##    print("\nNo valid inputs were entered.")
+print()
+print("========================")
+print("Using if statement")
+
+
+#rangeOfValue = input("Enter range value: ")
+if rangeOfValue.isnumeric():
+   rangeOfValue = int(rangeOfValue)
+   for i in range(rangeOfValue + 1):
+       if i % 2 == 0 and i !=0 :
+           print(i, end=" ")
+
+print()
+print("========================")
+print("Learning Task")
+print("========================")
+print("Prob 2")
+print()
+
+for i in range(1, 11):
+   print(i * 5)
+
+print()
+print("========================")
+print("Learning Task")
+print("========================")
+print("Prob 3")
+print()
+
+inputs = int(input("Enter total number of inputs: "))
+
+count = 0
+summ = 0
+
+for _ in range(inputs):
+   val = int(input("Enter an integer: "))
+
+   if val <= 0:
+       break
+
+   summ += val
+   count += 1
+
+if count > 0:
+   avr = summ / count
+   print(f"\n Sum: {summ}")
+   print(f"\n Count: {count}")
+   print(f"\n Average: {avr}")
+else:
+   print("\nNo valid inputs were entered.")
 
 
 
