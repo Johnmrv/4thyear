@@ -51,6 +51,7 @@ print()
 for key, value in info.items():
     print(f"")
 
+##Pwede din (a, b, c)
 myTup = (1, 2, 3)
 a = myTup
 print(a[0])
@@ -58,4 +59,5 @@ print(a[1])
 print(a[2])
 
 print()
+
 
